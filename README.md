@@ -91,10 +91,7 @@ This numerical output makes the model useful for:
 ## 🌐 Deployed Streamlit Application
 
 🔗 **Live App Link**  
-👉 (https://salarypredictionregression-by-fardeen.streamlit.app/)
-
-*(Replace this link with your actual deployed Streamlit URL)*
-
+👉 (https://salaryprediction-by-fardeen.streamlit.app/)
 ---
 
 ## ▶️ Run the App Locally
