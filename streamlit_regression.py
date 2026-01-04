@@ -65,4 +65,3 @@ prediction = model.predict(input_data_scaled)
 prediction_proba = prediction[0][0]
 
 st.write(f'Estimated Salary : {prediction_proba : 2f}')
-
